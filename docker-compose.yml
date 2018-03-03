@@ -16,4 +16,4 @@ services:
     links:
       - db
     volumes:
-      - /c/Users/React/Sites/:/sites
+      - /c/Users/duduu/Sites/:/sites
